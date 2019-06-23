@@ -1,7 +1,5 @@
 I am from master
 I am from branch2
-<<<<<<< HEAD
 b-master
-=======
 A-branch2
->>>>>>> branch2
+branch2
